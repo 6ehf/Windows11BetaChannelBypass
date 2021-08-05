@@ -1,0 +1,9 @@
+C:\Users\Flami\source\repos\Windows11BetaForce\Windows11BetaForce\bin\Debug\Windows11BetaForce.exe.config
+C:\Users\Flami\source\repos\Windows11BetaForce\Windows11BetaForce\bin\Debug\Windows11BetaForce.exe
+C:\Users\Flami\source\repos\Windows11BetaForce\Windows11BetaForce\bin\Debug\Windows11BetaForce.pdb
+C:\Users\Flami\source\repos\Windows11BetaForce\Windows11BetaForce\obj\Debug\Windows11BetaForce.Form1.resources
+C:\Users\Flami\source\repos\Windows11BetaForce\Windows11BetaForce\obj\Debug\Windows11BetaForce.Properties.Resources.resources
+C:\Users\Flami\source\repos\Windows11BetaForce\Windows11BetaForce\obj\Debug\Windows11BetaForce.csproj.GenerateResource.cache
+C:\Users\Flami\source\repos\Windows11BetaForce\Windows11BetaForce\obj\Debug\Windows11BetaForce.csproj.CoreCompileInputs.cache
+C:\Users\Flami\source\repos\Windows11BetaForce\Windows11BetaForce\obj\Debug\Windows11BetaForce.exe
+C:\Users\Flami\source\repos\Windows11BetaForce\Windows11BetaForce\obj\Debug\Windows11BetaForce.pdb
